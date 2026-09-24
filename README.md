@@ -1,5 +1,5 @@
 # Sales--data--analysis-
-Beginner data analysis project using Excel and Python
+ data analysis project using Excel and Python
 ## Files Included
 ## Excel Analysis
 
